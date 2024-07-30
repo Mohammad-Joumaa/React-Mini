@@ -1,0 +1,17 @@
+
+
+
+.App {
+  font-family: Arial, sans-serif;
+  background-color: rgb(49, 173, 173);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  min-height: 100vh;
+}
+
+.content {
+  margin-left: 250px; /* Adjust according to sidebar width */
+  padding: 20px;
+}
